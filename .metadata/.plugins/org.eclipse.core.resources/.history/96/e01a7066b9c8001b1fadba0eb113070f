@@ -1,0 +1,5 @@
+package com.promineotech.jeep.DAO;
+
+public interface JeepOrderDao {
+
+}

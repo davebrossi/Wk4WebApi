@@ -1,0 +1,6 @@
+1622505856130	Delete element
+1622578398091	Rename resource 'Application-test.yaml'
+1622670562130	Extract method 'assertErrorMessageValid'
+1622673330386	Delete element
+1622676065566	Delete element
+1622677522607	Extract constant 'TRIM_MAX_LENGTH'

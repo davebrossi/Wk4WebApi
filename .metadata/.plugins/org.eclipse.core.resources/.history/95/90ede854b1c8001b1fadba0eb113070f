@@ -1,0 +1,11 @@
+package com.promineotech.jeep.entity;
+
+import lombok.Data;
+
+@Data
+public class Order {
+  private Customer customer;
+  private Jeep model;
+  private Color color;
+  private Engine engine;
+}

@@ -1,0 +1,10 @@
+package com.promineotech.jeep.entity;
+
+import lombok.Data;
+
+@Data
+public class Option {
+  private Long optionPK;
+  private String optionId;
+  private OptionType category;
+}

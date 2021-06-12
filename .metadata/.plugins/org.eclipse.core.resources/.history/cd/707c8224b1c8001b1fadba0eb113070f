@@ -1,0 +1,12 @@
+package com.promineotech.jeep.entity;
+
+import lombok.Data;
+
+@Data
+public class Engine {
+  private Long enginePK;
+  private String engineId;
+  private Float sizeInLiters;
+  private String name;
+  private FuelType fuelType;
+}

@@ -1,0 +1,15 @@
+package com.promineotech.jeep.Dao;
+
+import com.promineotech.jeep.entity.Order;
+import com.promineotech.jeep.entity.OrderRequest;
+
+
+public class DefaultJeepOrderDao implements JeepOrderDao {
+ 
+@Override
+  public Order createOrder(OrderRequest orderRequest) {
+    
+  return null;
+  }
+}
+ 

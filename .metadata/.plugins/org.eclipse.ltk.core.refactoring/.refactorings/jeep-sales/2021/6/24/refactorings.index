@@ -1,0 +1,14 @@
+1623104504909	Extract method 'createOrderBody'
+1623104865357	Rename method 'getBaseUri'
+1623194244773	Delete element
+1623194288394	Copy compilation unit
+1623198476614	Rename type 'JeepSalesDAO'
+1623198486353	Rename type 'DefaultJeepSalesDAO'
+1623278932146	Rename package 'com.promineotech.jeep.DAO'
+1623347659059	Extract method 'getCustomer'
+1623347720921	Extract method 'getModel'
+1623347734724	Extract method 'getColor'
+1623347748948	Extract method 'getEngine'
+1623347760982	Extract method 'getTire'
+1623520089078	Rename type 'BasicJeepOrderController'
+1623520109743	Rename type 'BasicJeepSalesController'
